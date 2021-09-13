@@ -1,0 +1,31 @@
+body {
+  background-color:rgb(44,44,44);
+  font-size:18px;
+  font-family:sans-serif;
+}
+
+h1 {
+  margin-top:4px;
+}
+
+div {
+  display: block;
+  background-color:rgb(200,200,200);
+  padding:20px;
+  margin:20px;
+  color:rgb(22,22,66);
+  font-size:1.1em;
+}
+
+img {
+  width:100%;
+}
+
+.imagecontainer {
+  padding:0;
+}
+
+#firstword {
+  color:red;
+  font-weight:bolder;
+}
